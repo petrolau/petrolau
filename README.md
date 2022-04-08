@@ -1,6 +1,6 @@
 # Hi! I'm Laura Petrola!
 
-- 🔭 I’m currently working with Data Visualization and Databases. Im passionate about Design and learning front-end development.
+- 🔭 I’m currently working with Data Visualization and Databases. Im passionate about Design and i am currently learning front-end development.
 - 🌱 I’m currently learning ReactJS
 - 💬 Contact me on: laupetrola@gmail.com
 
